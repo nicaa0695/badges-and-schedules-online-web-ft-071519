@@ -17,3 +17,4 @@ def assign_rooms(array_of_names)
   end
   room_assignments
 end
+
